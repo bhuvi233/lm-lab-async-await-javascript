@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/techreturners/lm-lab-async-await-javascript/issues"
   },
-  "homepage": "https://github.com/techreturners/lm-lab-async-await-javascript#readme"
+  "homepage": "https://github.com/techreturners/lm-lab-async-await-javascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
 }
